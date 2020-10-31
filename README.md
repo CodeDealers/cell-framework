@@ -25,6 +25,9 @@ This framework is supposed to help small to medium sized companies to quickly se
 
 ---
 
+## Configuration 
+
+
 ## Setup
 
 
