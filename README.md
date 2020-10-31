@@ -17,7 +17,7 @@ and evolved to support new functionality organically
 
 ---
 
-This framework is supposed to help small to medium sized companies to quickly setup a scalable microservice framework 
+This framework is supposed to help small to medium sized companies to quickly setup a scalable microservice infrastructure
 
 ---
 
