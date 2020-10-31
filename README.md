@@ -14,3 +14,13 @@ and evolved to support new functionality organically
 ---
 
 ![cell_framework_img-1](https://lh6.googleusercontent.com/nwsMiCIuOCcat4rizFy-xauHYvWDXAs87YzK3dVtNNsRxjgW7-KEvUonLxGCWvaYBgm3P_tEdv6EcN6Gpafk=w1920-h976-rw)
+
+---
+
+This framework is supposed to help small to medium sized companies to quickly setup a scalable microservice framework 
+
+---
+
+## Setup
+
+
