@@ -8,7 +8,7 @@ disposable at any given time
 
 If we can create an architecture that resembles the human body where code lives, dies and
 can sustain the host (The software ecosystem) We can have a development cycle where
-code can be instantly duplicated independent of hardware and dependencies 
+code can be instantly creates or duplicated independent of hardware and dependencies 
 and evolved to support new functionality organically 
 
 ### Hot swappable code 
