@@ -11,6 +11,10 @@ can sustain the host (The software ecosystem) We can have a development cycle wh
 code can be instantly duplicated independent of hardware and dependencies 
 and evolved to support new functionality organically 
 
+### Hot swappable code 
+
+The basic idea is to have hot swappable business logic within a single cell, for fast iterable services 
+
 ---
 
 ![cell_framework_img-1](https://lh6.googleusercontent.com/nwsMiCIuOCcat4rizFy-xauHYvWDXAs87YzK3dVtNNsRxjgW7-KEvUonLxGCWvaYBgm3P_tEdv6EcN6Gpafk=w1920-h976-rw)
